@@ -1,9 +1,7 @@
-# FCA-G
-The code and results of FCA-G
+# FCA-G : Formal Concept Analysis based Grouping Approach to Large-scale Global Optimization 
 
 
-
-
+The code and results of FCA-G can be found as follows:
 
 The optimal results found by FCA-G are saved in the File:  "./FCAG/optimizationResults/cec20XX/fXX.mat"
 
